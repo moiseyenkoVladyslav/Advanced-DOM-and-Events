@@ -14,3 +14,4 @@ Demo: https://advanced-dom-and-events.vercel.app/
 9. The intersection Observer API
 10. Lazy Loading Images
 11. Building Slider Component
+12. Numbers, Dates, Intl and Timers
